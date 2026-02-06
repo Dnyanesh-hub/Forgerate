@@ -1,0 +1,426 @@
+[
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "3/4\" G.I. Pipe (20 mm)",
+    "rate": 3,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 206
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 16,
+    "unit": "Bolts and nuts 16mm dia 60mm long",
+    "rate": 6.8,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 752
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 2.125,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 753
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 16,
+    "unit": "Bolts and nuts 16mm dia 60mm long",
+    "rate": 13.6,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 769
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 2.54,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 770
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 16,
+    "unit": "Bolts and nuts 16mm dia 60mm long",
+    "rate": 13.6,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 786
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 3.14,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 787
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "Bolts and nuts 20mm dia 65mm long",
+    "rate": 24,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 803
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 4.3,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 804
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "Bolts and nuts 20mm dia 70mm long",
+    "rate": 25.2,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 820
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 6.16,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 821
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "Bolts and nuts 20mm dia 75mm long",
+    "rate": 39.6,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 837
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 8.5,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 838
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "Bolts and nuts 20mm dia 75mm long",
+    "rate": 39.6,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 854
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 5,
+    "unit": "Rubber insertion 5mm thick",
+    "rate": 10.28,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 855
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 20,
+    "unit": "Bolts and nuts 20mm dia 80mm long",
+    "rate": 54.4,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 871
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 21.26,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 872
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 85mm long",
+    "rate": 98.4,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 888
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 27.64,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 889
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 85mm long",
+    "rate": 123,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 905
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 22.66,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 906
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 90mm long",
+    "rate": 134,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 922
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 38.19,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 923
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 90mm long",
+    "rate": 192,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 939
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 51.71,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 940
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 90mm long",
+    "rate": 244.8,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 956
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 68.91,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 957
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 24,
+    "unit": "Bolts and nuts 24mm dia 90mm long",
+    "rate": 260.4,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 973
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 8,
+    "unit": "Rubber insertion 8mm thick",
+    "rate": 78.43,
+    "category": "PHE-LCIF-2 2 Lowering C.I. / D.I.  Pipes (all classes) and specials (fittings) with flanged ends carefully into trench and laying them true to alignment and gradient including all sundries but excluding cost and conveyance of pipes from source of supply. (Reference to specifications. BIS No.3114/1994)",
+    "source_row": 974
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 25,
+    "unit": "G.I. tee 25mm dia. ",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1348
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 25,
+    "unit": "G.I. Jam nut 25mm",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1349
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 50,
+    "unit": "G.I. tee 50mm dia. ",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1363
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 50,
+    "unit": "G.I. Jam nut 50mm",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1364
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 150,
+    "unit": "G.I. tee 150mm dia. ",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1378
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 150,
+    "unit": "G.I. Jam nut 150mm",
+    "rate": 1,
+    "category": "PHE-LJGI-7 7 Lowering and Jointing G.I. pipes and specials / fittings including excavation  of trench of  0.5m width and 0.50 m depth in all soils except rock requiring blasting and refilling trenches after laying and jointing pipes and also including cost of jointing materials but excluding the cost of pipes. Reference to specifications. BIS No.783/85",
+    "source_row": 1379
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 100,
+    "unit": "100 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2090
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 150,
+    "unit": "150 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2107
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 200,
+    "unit": "200 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2124
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 230,
+    "unit": "230 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2141
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 250,
+    "unit": "250 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2158
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 300,
+    "unit": "300 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2175
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 350,
+    "unit": "350 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2192
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 400,
+    "unit": "400 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2209
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 450,
+    "unit": "450 mm dia SW pipe 60cm long",
+    "rate": 50,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2226
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 65,
+    "unit": "Providing and fixing spindle fire hydrant with 65 mm outlet. Complete with bolts, nuts, and rubber insertion etc. complete but excluding cost of Materials.",
+    "rate": 17,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2334
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 250,
+    "unit": "Polling Boards of 250 mm x 35 mm (40 x 1.5 x 0.25 x 0.038 = 0.57 cum) ",
+    "rate": 0.11,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2732
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 125,
+    "unit": "Ballies 125 mm dia 1.5 mts long (60 x p x (0.125)2 / 4 x 1.5 = 1.1 cum",
+    "rate": 0.22000000000000003,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2733
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 140,
+    "unit": "Providing RCC spun vent shaft with cowl 140 mm and 200 mm internal and external dia respectively at top, 300 and 450 mm internal and external dia respectively at bottom and 9.10m overall length. Bottom 1.25 m below ground level fixed in a pit 90cmx90cm x150 cm with cement concrete 1:4:8, 25cm in bed and minimum 20cm all-round with top 15cm in cement concrete 1:2:4. Junction of vent shaft and concrete grouted with cement mortar 1:1 including making connection with sewer manhole with 150 mm dia metre cement concrete pipe of required length complete as per standard design",
+    "rate": 27,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2757
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 150,
+    "unit": "RCC pipe 150 mm dia 0.50 m (NP-2 class)",
+    "rate": 0.5,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 2766
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 300,
+    "unit": "Loading or Unloading materials such as C.I / D.I Pipes, R.C.C. Pipes, P.V.C. pipes, A.C.  Pressure pipes and Specials less than 300 mm upto 4 mts in length including stacking.",
+    "rate": 34,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 3027
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 300,
+    "unit": "PHE-LUMS-35",
+    "rate": 35,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 3060
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 300,
+    "unit": "Loading or unloading materials such as CI / DI Pipes, A.C. pressure pipes less than 300 mm dia above 4.00 M in length including stacking",
+    "rate": 36,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 3091
+  },
+  {
+    "material": "CI/DI",
+    "diameter_mm": 600,
+    "unit": "Loading or Unloading materials such as C.I / D.I. Pipes, A.C.  Pressure pipes from 300 to 600mm dia above 4.00 m including stacking",
+    "rate": 37,
+    "category": "PHE-LJSW-13 13 Lowering and laying in ready made trench true to alignment and gradient, jointing, and testing of stone ware pipes including cost of jointing material such as cement mortar (1:1) proportion   and hemp yarn but excluding cost and conveyance of pipe. (Reference to specifications BIS No. 6530/72)",
+    "source_row": 3106
+  }
+]
