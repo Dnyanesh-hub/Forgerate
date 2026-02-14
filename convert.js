@@ -1,0 +1,69 @@
+const fs = require("fs");
+
+// 1️⃣ Read original file
+const rawData = JSON.parse(
+  fs.readFileSync("originalNested.json", "utf8")
+);
+
+const year = rawData.year;
+const result = [];
+
+const sections = rawData.sections;
+
+// 2️⃣ Skilled Workmen
+for (const subCategory in sections.Skilled_Workmen) {
+  sections.Skilled_Workmen[subCategory].forEach(item => {
+    result.push({
+      year,
+      category: "Skilled",
+      subCategory: subCategory.replace("_", " "),
+      description: item.description,
+      unit: item.unit,
+      rate: item.rate
+    });
+  });
+}
+
+// 3️⃣ Semi-Skilled
+sections.Semi_Skilled_Workmen.forEach(item => {
+  result.push({
+    year,
+    category: "Semi-Skilled",
+    subCategory: null,
+    description: item.description,
+    unit: item.unit,
+    rate: item.rate
+  });
+});
+
+// 4️⃣ Unskilled
+sections.Unskilled_Workmen.forEach(item => {
+  result.push({
+    year,
+    category: "Unskilled",
+    subCategory: null,
+    description: item.description,
+    unit: item.unit,
+    rate: item.rate
+  });
+});
+
+// 5️⃣ Conveyance
+sections.Other_Conveyance_Items.forEach(item => {
+  result.push({
+    year,
+    category: "Conveyance",
+    subCategory: null,
+    description: item.description,
+    unit: item.unit,
+    rate: item.rate
+  });
+});
+
+// 6️⃣ Save flattened JSON
+fs.writeFileSync(
+  "flattened.json",
+  JSON.stringify(result, null, 2)
+);
+
+console.log("✅ Conversion completed. flattened.json created.");

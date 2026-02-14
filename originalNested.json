@@ -1,0 +1,102 @@
+{
+  "year": "2005-06",
+  "sections": {
+    "Skilled_Workmen": {
+      "First_Class": [
+        { "description": "Mason and Stone Cutter", "unit": "Day", "rate": 156.00 },
+        { "description": "Brick Layer", "unit": "Day", "rate": 156.00 },
+        { "description": "Carpenter", "unit": "Day", "rate": 156.00 },
+        { "description": "Painter", "unit": "Day", "rate": 156.00 },
+        { "description": "Plumber", "unit": "Day", "rate": 156.00 },
+        { "description": "Welder", "unit": "Day", "rate": 156.00 },
+        { "description": "Fitter", "unit": "Day", "rate": 156.00 },
+        { "description": "Electrician", "unit": "Day", "rate": 156.00 },
+        { "description": "Cook", "unit": "Day", "rate": 156.00 },
+        { "description": "Mechanic", "unit": "Day", "rate": 156.00 },
+        { "description": "Rigger", "unit": "Day", "rate": 156.00 },
+        { "description": "Rigger Syrang", "unit": "Day", "rate": 156.00 },
+        { "description": "Well Sinker", "unit": "Day", "rate": 156.00 },
+        { "description": "Blaster", "unit": "Day", "rate": 156.00 },
+        { "description": "Tipper and Heavy Vehicle Driver above 12T", "unit": "Day", "rate": 165.00 },
+        { "description": "Tanker and Medium Vehicle Driver (7.5T–12T)", "unit": "Day", "rate": 144.00 },
+        { "description": "Tanker and Light Vehicle Driver up to 7.5T", "unit": "Day", "rate": 130.00 },
+        { "description": "Wagon Drill Operator up to 7.5T", "unit": "Day", "rate": 165.00 },
+        { "description": "Lorry and Heavy Vehicle Driver above 12T", "unit": "Day", "rate": 165.00 },
+        { "description": "Road Roller Driver (7.5T–12T)", "unit": "Day", "rate": 144.00 },
+        { "description": "Road Roller Driver up to 7.5T", "unit": "Day", "rate": 130.00 },
+        { "description": "Tractor Driver above 12T", "unit": "Day", "rate": 165.00 },
+        { "description": "Tractor Driver (7.5T–12T)", "unit": "Day", "rate": 144.00 },
+        { "description": "Tractor Driver up to 7.5T", "unit": "Day", "rate": 130.00 }
+      ],
+      "Operator": [
+        { "description": "Pan Mixer", "unit": "Day", "rate": 156.00 },
+        { "description": "Concrete Mixer", "unit": "Day", "rate": 156.00 },
+        { "description": "Vibrator", "unit": "Day", "rate": 156.00 },
+        { "description": "Compressor", "unit": "Day", "rate": 156.00 },
+        { "description": "Jack Hammer", "unit": "Day", "rate": 156.00 },
+        { "description": "Driller", "unit": "Day", "rate": 156.00 },
+        { "description": "Boring Maistry", "unit": "Day", "rate": 156.00 },
+        { "description": "Pump Operator", "unit": "Day", "rate": 156.00 },
+        { "description": "Turner Grade-I", "unit": "Day", "rate": 156.00 },
+        { "description": "Wireless Operator", "unit": "Day", "rate": 165.00 },
+        { "description": "Assistant Wireless Operator", "unit": "Day", "rate": 137.00 },
+        { "description": "Jeep Driver", "unit": "Day", "rate": 130.00 },
+        { "description": "Work Inspector (ITI)", "unit": "Day", "rate": 151.00 },
+        { "description": "Work Inspector (LCE/LME/LEE)", "unit": "Day", "rate": 165.00 },
+        { "description": "Work Inspector (B.E Civil/Mechanical/Electrical)", "unit": "Day", "rate": 250.00 },
+        { "description": "Work Inspector (Non-technical SSLC/SSC/HSC)", "unit": "Day", "rate": 137.00 },
+        { "description": "Mason Special Grade (Mosaic/Polished Stone)", "unit": "Day", "rate": 165.00 },
+        { "description": "Computer Operator", "unit": "Day", "rate": 137.00 }
+      ]
+    },
+
+    "Semi_Skilled_Workmen": [
+      { "description": "Mason", "unit": "Day", "rate": 137.00 },
+      { "description": "Brick Layer and Stone Cutter", "unit": "Day", "rate": 137.00 },
+      { "description": "Carpenter", "unit": "Day", "rate": 137.00 },
+      { "description": "Painter", "unit": "Day", "rate": 137.00 },
+      { "description": "Plumber", "unit": "Day", "rate": 137.00 },
+      { "description": "Blacksmith", "unit": "Day", "rate": 137.00 },
+      { "description": "Welder", "unit": "Day", "rate": 137.00 },
+      { "description": "Fitter", "unit": "Day", "rate": 137.00 },
+      { "description": "Electrician", "unit": "Day", "rate": 137.00 },
+      { "description": "Caulker", "unit": "Day", "rate": 137.00 },
+      { "description": "Barbender", "unit": "Day", "rate": 137.00 },
+      { "description": "Tinker", "unit": "Day", "rate": 137.00 },
+      { "description": "Sawyer", "unit": "Day", "rate": 137.00 },
+      { "description": "Brick-Moulder", "unit": "Day", "rate": 137.00 },
+      { "description": "Pot-tile Turner", "unit": "Day", "rate": 137.00 },
+      { "description": "Pan-tile Turner", "unit": "Day", "rate": 137.00 },
+      { "description": "Brick and Lime Kiln Man / Glazzer", "unit": "Day", "rate": 137.00 },
+      { "description": "Telephone Operator", "unit": "Day", "rate": 137.00 },
+      { "description": "Hand Driller", "unit": "Day", "rate": 137.00 },
+      { "description": "Quarry Man", "unit": "Day", "rate": 137.00 },
+      { "description": "Hammer Man", "unit": "Day", "rate": 137.00 },
+      { "description": "Thatcher", "unit": "Day", "rate": 137.00 },
+      { "description": "Fireman", "unit": "Day", "rate": 137.00 },
+      { "description": "Cleaner/Helper", "unit": "Day", "rate": 137.00 },
+      { "description": "Stone Packer", "unit": "Day", "rate": 137.00 },
+      { "description": "Jawali", "unit": "Day", "rate": 137.00 },
+      { "description": "Ex-Service Man / Goorkha Watchman", "unit": "Day", "rate": 106.00 },
+      { "description": "Ratton Worker", "unit": "Day", "rate": 137.00 },
+      { "description": "Mate", "unit": "Day", "rate": 137.00 }
+    ],
+
+    "Unskilled_Workmen": [
+      { "description": "Head Mazdoor (Mukaddar)", "unit": "Day", "rate": 106.00 },
+      { "description": "Man Mazdoor", "unit": "Day", "rate": 106.00 },
+      { "description": "Watch Man", "unit": "Day", "rate": 106.00 },
+      { "description": "Woman Mazdoor", "unit": "Day", "rate": 106.00 }
+    ],
+
+    "Other_Conveyance_Items": [
+      { "description": "Single Bullock with Driver and Cart", "unit": "Day", "rate": 151.00 },
+      { "description": "Bullock Pair with Driver", "unit": "Day", "rate": 151.00 },
+      { "description": "Bullock Pair with Driver and Cart", "unit": "Day", "rate": 165.00 },
+      { "description": "Bullock Pair with Driver and Cart with Pneumatic Tyres", "unit": "Day", "rate": 208.00 },
+      { "description": "Nava with Crew", "unit": "Day", "rate": 144.00 },
+      { "description": "Punt Thundal", "unit": "Day", "rate": 116.00 },
+      { "description": "Punt Lascar", "unit": "Day", "rate": 116.00 }
+    ]
+  }
+}

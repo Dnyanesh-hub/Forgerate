@@ -1,0 +1,658 @@
+[
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Mason and Stone Cutter",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Brick Layer",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Carpenter",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Painter",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Plumber",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Welder",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Fitter",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Electrician",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Cook",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Mechanic",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Rigger",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Rigger Syrang",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Well Sinker",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Blaster",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tipper and Heavy Vehicle Driver above 12T",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tanker and Medium Vehicle Driver (7.5T–12T)",
+    "unit": "Day",
+    "rate": 144
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tanker and Light Vehicle Driver up to 7.5T",
+    "unit": "Day",
+    "rate": 130
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Wagon Drill Operator up to 7.5T",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Lorry and Heavy Vehicle Driver above 12T",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Road Roller Driver (7.5T–12T)",
+    "unit": "Day",
+    "rate": 144
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Road Roller Driver up to 7.5T",
+    "unit": "Day",
+    "rate": 130
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tractor Driver above 12T",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tractor Driver (7.5T–12T)",
+    "unit": "Day",
+    "rate": 144
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "First Class",
+    "description": "Tractor Driver up to 7.5T",
+    "unit": "Day",
+    "rate": 130
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Pan Mixer",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Concrete Mixer",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Vibrator",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Compressor",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Jack Hammer",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Driller",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Boring Maistry",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Pump Operator",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Turner Grade-I",
+    "unit": "Day",
+    "rate": 156
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Wireless Operator",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Assistant Wireless Operator",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Jeep Driver",
+    "unit": "Day",
+    "rate": 130
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Work Inspector (ITI)",
+    "unit": "Day",
+    "rate": 151
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Work Inspector (LCE/LME/LEE)",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Work Inspector (B.E Civil/Mechanical/Electrical)",
+    "unit": "Day",
+    "rate": 250
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Work Inspector (Non-technical SSLC/SSC/HSC)",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Mason Special Grade (Mosaic/Polished Stone)",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Skilled",
+    "subCategory": "Operator",
+    "description": "Computer Operator",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Mason",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Brick Layer and Stone Cutter",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Carpenter",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Painter",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Plumber",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Blacksmith",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Welder",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Fitter",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Electrician",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Caulker",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Barbender",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Tinker",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Sawyer",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Brick-Moulder",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Pot-tile Turner",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Pan-tile Turner",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Brick and Lime Kiln Man / Glazzer",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Telephone Operator",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Hand Driller",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Quarry Man",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Hammer Man",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Thatcher",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Fireman",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Cleaner/Helper",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Stone Packer",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Jawali",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Ex-Service Man / Goorkha Watchman",
+    "unit": "Day",
+    "rate": 106
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Ratton Worker",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Semi-Skilled",
+    "subCategory": null,
+    "description": "Mate",
+    "unit": "Day",
+    "rate": 137
+  },
+  {
+    "year": "2005-06",
+    "category": "Unskilled",
+    "subCategory": null,
+    "description": "Head Mazdoor (Mukaddar)",
+    "unit": "Day",
+    "rate": 106
+  },
+  {
+    "year": "2005-06",
+    "category": "Unskilled",
+    "subCategory": null,
+    "description": "Man Mazdoor",
+    "unit": "Day",
+    "rate": 106
+  },
+  {
+    "year": "2005-06",
+    "category": "Unskilled",
+    "subCategory": null,
+    "description": "Watch Man",
+    "unit": "Day",
+    "rate": 106
+  },
+  {
+    "year": "2005-06",
+    "category": "Unskilled",
+    "subCategory": null,
+    "description": "Woman Mazdoor",
+    "unit": "Day",
+    "rate": 106
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Single Bullock with Driver and Cart",
+    "unit": "Day",
+    "rate": 151
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Bullock Pair with Driver",
+    "unit": "Day",
+    "rate": 151
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Bullock Pair with Driver and Cart",
+    "unit": "Day",
+    "rate": 165
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Bullock Pair with Driver and Cart with Pneumatic Tyres",
+    "unit": "Day",
+    "rate": 208
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Nava with Crew",
+    "unit": "Day",
+    "rate": 144
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Punt Thundal",
+    "unit": "Day",
+    "rate": 116
+  },
+  {
+    "year": "2005-06",
+    "category": "Conveyance",
+    "subCategory": null,
+    "description": "Punt Lascar",
+    "unit": "Day",
+    "rate": 116
+  }
+]

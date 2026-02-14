@@ -2,20 +2,24 @@
   "name": "miniproject",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "convert.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnyanesh-hub/RateForge.git"
   },
   "keywords": [],
   "author": "Dnyaneshwar Mali",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dnyanesh-hub/RateForge/issues"
+  },
+  "homepage": "https://github.com/Dnyanesh-hub/RateForge#readme",
   "dependencies": {
-    "ejs": "^4.0.1",
-    "ejs-mate": "^4.0.0",
-    "express": "^5.2.1",
-    "method-override": "^3.0.0",
-    "mongoose": "^9.1.5",
+    "mongoose": "^9.2.1",
     "xlsx": "^0.18.5"
   }
 }
