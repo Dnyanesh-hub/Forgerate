@@ -1,0 +1,3153 @@
+{
+  "title": "Public Health Items - Schedule of Standard Rates",
+  "year": "2005-06",
+  "source_file": "publichealth.xlsx",
+  "parsed_at": "2026-02-19T17:02:26.874Z",
+  "sections": [
+    {
+      "id": 1,
+      "item_no": 1,
+      "item_key": "1",
+      "category": "Labour Rates",
+      "title": "RATES OF LABOUR (SKILLED WORKMEN)",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 1,
+          "section_item_no": 1,
+          "dimension": "1. Caulkar",
+          "unit": "Per Day",
+          "rate": "As per common SSR",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 2,
+      "item_no": 2,
+      "item_key": "2",
+      "category": "Earth Work",
+      "title": "RATES FOR EARTH WORK :",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 2,
+          "section_item_no": 2,
+          "dimension": "Earth work excavation in all soils for pipe lines, for drainage and water supply, where the depth is 1.5 times more than the width.",
+          "unit": null,
+          "rate": "AS PER COMMON SSR",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 3,
+      "item_no": "3. a.",
+      "item_key": "3a",
+      "category": "General",
+      "title": "Excavation of pipe line trenches for drainage and water supply in rock requiring blasting with initial lead and lift including cost of blasting materials where the depth is 1.5 times more than the width, in places where there is no habitation.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 3,
+          "section_item_no": "3. a.",
+          "dimension": "For contol blasting at restricted places",
+          "unit": null,
+          "rate": 25,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 4,
+      "item_no": 4,
+      "item_key": "4",
+      "category": "Loading & Unloading",
+      "title": "Loading or unloading materials such as C.I. Pipes, PVC Pipes, AC Pressure Pipes, DI Pipes, SW Pipes, PVC Pipes, A.C/Specials less than 300 mm dia upto 4 m in length including stacking.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 4,
+          "section_item_no": 4,
+          "dimension": "C.I. Pipes/D.I. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 55.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 5,
+          "section_item_no": 4,
+          "dimension": "A.C. Pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 46.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 6,
+          "section_item_no": 4,
+          "dimension": "Stoneware pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 46.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 7,
+          "section_item_no": 4,
+          "dimension": "P.V.C. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 45.8,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 5,
+      "item_no": 5,
+      "item_key": "5",
+      "category": "Loading & Unloading",
+      "title": "Loading or unloading materials such as C.I. Pipes, DI pipes, SW pipes, AC pressure pipes & fittings/ specials from 300 mm to 600 mm dia upto 4 m in length including stacking.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 8,
+          "section_item_no": 5,
+          "dimension": "C.I. Pipes/D.I. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 69.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 9,
+          "section_item_no": 5,
+          "dimension": "A.C. Pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 63.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 10,
+          "section_item_no": 5,
+          "dimension": "Stoneware pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 63.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 6,
+      "item_no": 6,
+      "item_key": "6",
+      "category": "Loading & Unloading",
+      "title": "Loading or unloading materials such as C.I. Pipes, DI pipes, PVC pipes, AC pipes less than 300 mm dia, above 4 m in length including stacking.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 11,
+          "section_item_no": 6,
+          "dimension": "C.I. Pipes/D.I. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 68.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 12,
+          "section_item_no": 6,
+          "dimension": "A.C. Pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 63.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 13,
+          "section_item_no": 6,
+          "dimension": "P.V.C. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 62.7,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 7,
+      "item_no": 7,
+      "item_key": "7",
+      "category": "Loading & Unloading",
+      "title": "Loading or unloading materials such as C.I. Pipes, DI pipes, AC pipes from 300 mm to 600 mm above 4 m in length including stacking.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 14,
+          "section_item_no": 7,
+          "dimension": "C.I. Pipes/D.I. Pipes and fittings",
+          "unit": "Per Tonne",
+          "rate": 83.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 15,
+          "section_item_no": 7,
+          "dimension": "A.C. Pipes & Specials",
+          "unit": "Per Tonne",
+          "rate": 78.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 8,
+      "item_no": "8. a.",
+      "item_key": "8a",
+      "category": "Pipe Laying",
+      "title": "Lowering the C.I. Pipes, D.I. Pipes and fittings with S/S ends carefully into the trenches and laying them true to alignment and gradient including all sundries, but excluding conveyance from source of supply as per BIS No.3114/85.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 16,
+          "section_item_no": "8. a.",
+          "dimension": "80",
+          "unit": "Per Metre",
+          "rate": 12.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 17,
+          "section_item_no": "8. a.",
+          "dimension": "100",
+          "unit": "Per Metre",
+          "rate": 12.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 18,
+          "section_item_no": "8. a.",
+          "dimension": "125",
+          "unit": "Per Metre",
+          "rate": 12.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 19,
+          "section_item_no": "8. a.",
+          "dimension": "150",
+          "unit": "Per Metre",
+          "rate": 12.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 20,
+          "section_item_no": "8. a.",
+          "dimension": "180",
+          "unit": "Per Metre",
+          "rate": 14.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 21,
+          "section_item_no": "8. a.",
+          "dimension": "200",
+          "unit": "Per Metre",
+          "rate": 16.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 22,
+          "section_item_no": "8. a.",
+          "dimension": "225",
+          "unit": "Per Metre",
+          "rate": 17.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 23,
+          "section_item_no": "8. a.",
+          "dimension": "250",
+          "unit": "Per Metre",
+          "rate": 18.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 24,
+          "section_item_no": "8. a.",
+          "dimension": "300",
+          "unit": "Per Metre",
+          "rate": 23.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 25,
+          "section_item_no": "8. a.",
+          "dimension": "350",
+          "unit": "Per Metre",
+          "rate": 42.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 26,
+          "section_item_no": "8. a.",
+          "dimension": "380",
+          "unit": "Per Metre",
+          "rate": 42.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 27,
+          "section_item_no": "8. a.",
+          "dimension": "400",
+          "unit": "Per Metre",
+          "rate": 44.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 28,
+          "section_item_no": "8. a.",
+          "dimension": "450",
+          "unit": "Per Metre",
+          "rate": 52,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 29,
+          "section_item_no": "8. a.",
+          "dimension": "500",
+          "unit": "Per Metre",
+          "rate": 56.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 30,
+          "section_item_no": "8. a.",
+          "dimension": "530",
+          "unit": "Per Metre",
+          "rate": 63.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 31,
+          "section_item_no": "8. a.",
+          "dimension": "560",
+          "unit": "Per Metre",
+          "rate": 69.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 32,
+          "section_item_no": "8. a.",
+          "dimension": "600",
+          "unit": "Per Metre",
+          "rate": 74.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 33,
+          "section_item_no": "8. a.",
+          "dimension": "650",
+          "unit": "Per Metre",
+          "rate": 77.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 34,
+          "section_item_no": "8. a.",
+          "dimension": "680",
+          "unit": "Per Metre",
+          "rate": 82,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 35,
+          "section_item_no": "8. a.",
+          "dimension": "700",
+          "unit": "Per Metre",
+          "rate": 90.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 36,
+          "section_item_no": "8. a.",
+          "dimension": "750",
+          "unit": "Per Metre",
+          "rate": 104.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 37,
+          "section_item_no": "8. a.",
+          "dimension": "800",
+          "unit": "Per Metre",
+          "rate": 121.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 38,
+          "section_item_no": "8. a.",
+          "dimension": "900",
+          "unit": "Per Metre",
+          "rate": 145.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 39,
+          "section_item_no": "8. a.",
+          "dimension": "1000",
+          "unit": "Per Metre",
+          "rate": 176,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 40,
+          "section_item_no": "8. a.",
+          "dimension": "1100",
+          "unit": "Per Metre",
+          "rate": 209.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 41,
+          "section_item_no": "8. a.",
+          "dimension": "1200",
+          "unit": "Per Metre",
+          "rate": 245.3,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 9,
+      "item_no": "8. b.",
+      "item_key": "8b",
+      "category": "Pipe Laying",
+      "title": "Lowering the C.I. Pipes, D.I. Pipes and fittings with flanged ends carefully into the trenches and laying them true to alignment and gradient including all sundries, but excluding conveyance from source of supply as per BIS No.3114/85.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 42,
+          "section_item_no": "8. b.",
+          "dimension": "80",
+          "unit": "Per Metre",
+          "rate": 15.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 43,
+          "section_item_no": "8. b.",
+          "dimension": "100",
+          "unit": "Per Metre",
+          "rate": 15.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 44,
+          "section_item_no": "8. b.",
+          "dimension": "125",
+          "unit": "Per Metre",
+          "rate": 15.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 45,
+          "section_item_no": "8. b.",
+          "dimension": "150",
+          "unit": "Per Metre",
+          "rate": 15.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 46,
+          "section_item_no": "8. b.",
+          "dimension": "180",
+          "unit": "Per Metre",
+          "rate": 16.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 47,
+          "section_item_no": "8. b.",
+          "dimension": "200",
+          "unit": "Per Metre",
+          "rate": 17.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 48,
+          "section_item_no": "8. b.",
+          "dimension": "225",
+          "unit": "Per Metre",
+          "rate": 19,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 49,
+          "section_item_no": "8. b.",
+          "dimension": "250",
+          "unit": "Per Metre",
+          "rate": 20.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 50,
+          "section_item_no": "8. b.",
+          "dimension": "300",
+          "unit": "Per Metre",
+          "rate": 25.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 51,
+          "section_item_no": "8. b.",
+          "dimension": "350",
+          "unit": "Per Metre",
+          "rate": 46.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 52,
+          "section_item_no": "8. b.",
+          "dimension": "380",
+          "unit": "Per Metre",
+          "rate": 47.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 53,
+          "section_item_no": "8. b.",
+          "dimension": "400",
+          "unit": "Per Metre",
+          "rate": 51.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 54,
+          "section_item_no": "8. b.",
+          "dimension": "450",
+          "unit": "Per Metre",
+          "rate": 57,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 55,
+          "section_item_no": "8. b.",
+          "dimension": "500",
+          "unit": "Per Metre",
+          "rate": 59.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 56,
+          "section_item_no": "8. b.",
+          "dimension": "530",
+          "unit": "Per Metre",
+          "rate": 66.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 57,
+          "section_item_no": "8. b.",
+          "dimension": "560",
+          "unit": "Per Metre",
+          "rate": 71.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 58,
+          "section_item_no": "8. b.",
+          "dimension": "600",
+          "unit": "Per Metre",
+          "rate": 78,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 59,
+          "section_item_no": "8. b.",
+          "dimension": "650",
+          "unit": "Per Metre",
+          "rate": 80,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 60,
+          "section_item_no": "8. b.",
+          "dimension": "680",
+          "unit": "Per Metre",
+          "rate": 86.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 61,
+          "section_item_no": "8. b.",
+          "dimension": "700",
+          "unit": "Per Metre",
+          "rate": 99.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 62,
+          "section_item_no": "8. b.",
+          "dimension": "750",
+          "unit": "Per Metre",
+          "rate": 112.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 63,
+          "section_item_no": "8. b.",
+          "dimension": "800",
+          "unit": "Per Metre",
+          "rate": 138.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 64,
+          "section_item_no": "8. b.",
+          "dimension": "900",
+          "unit": "Per Metre",
+          "rate": 167,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 65,
+          "section_item_no": "8. b.",
+          "dimension": "1000",
+          "unit": "Per Metre",
+          "rate": 197.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 66,
+          "section_item_no": "8. b.",
+          "dimension": "1100",
+          "unit": "Per Metre",
+          "rate": 232.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 67,
+          "section_item_no": "8. b.",
+          "dimension": "1200",
+          "unit": "Per Metre",
+          "rate": 270.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 10,
+      "item_no": "9. a.",
+      "item_key": "9a",
+      "category": "Pipe Jointing",
+      "title": "Jointing the C.I. / DI Pipes & fittings with S/S ends excluding cost of jointing materials such as lead or lead wool and hemp yarn but including sundries such as cost of fuel for melting lead, filling with water, with a water lead upto 500 m and testing to required pressure etc, complete as BIS No.3114/85",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 68,
+          "section_item_no": "9. a.",
+          "dimension": "80",
+          "unit": "Each Joint",
+          "rate": 40.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 69,
+          "section_item_no": "9. a.",
+          "dimension": "100",
+          "unit": "Each Joint",
+          "rate": 43.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 70,
+          "section_item_no": "9. a.",
+          "dimension": "125",
+          "unit": "Each Joint",
+          "rate": 62.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 71,
+          "section_item_no": "9. a.",
+          "dimension": "150",
+          "unit": "Each Joint",
+          "rate": 65.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 72,
+          "section_item_no": "9. a.",
+          "dimension": "180",
+          "unit": "Each Joint",
+          "rate": 75.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 73,
+          "section_item_no": "9. a.",
+          "dimension": "200",
+          "unit": "Each Joint",
+          "rate": 85.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 74,
+          "section_item_no": "9. a.",
+          "dimension": "225",
+          "unit": "Each Joint",
+          "rate": 96.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 75,
+          "section_item_no": "9. a.",
+          "dimension": "250",
+          "unit": "Each Joint",
+          "rate": 106.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 76,
+          "section_item_no": "9. a.",
+          "dimension": "300",
+          "unit": "Each Joint",
+          "rate": 124.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 77,
+          "section_item_no": "9. a.",
+          "dimension": "350",
+          "unit": "Each Joint",
+          "rate": 136.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 78,
+          "section_item_no": "9. a.",
+          "dimension": "380",
+          "unit": "Each Joint",
+          "rate": 156.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 79,
+          "section_item_no": "9. a.",
+          "dimension": "400",
+          "unit": "Each Joint",
+          "rate": 177.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 80,
+          "section_item_no": "9. a.",
+          "dimension": "450",
+          "unit": "Each Joint",
+          "rate": 197.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 81,
+          "section_item_no": "9. a.",
+          "dimension": "500",
+          "unit": "Each Joint",
+          "rate": 209.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 82,
+          "section_item_no": "9. a.",
+          "dimension": "530",
+          "unit": "Each Joint",
+          "rate": 227.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 83,
+          "section_item_no": "9. a.",
+          "dimension": "560",
+          "unit": "Each Joint",
+          "rate": 245.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 84,
+          "section_item_no": "9. a.",
+          "dimension": "600",
+          "unit": "Each Joint",
+          "rate": 282.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 85,
+          "section_item_no": "9. a.",
+          "dimension": "650",
+          "unit": "Each Joint",
+          "rate": 301.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 86,
+          "section_item_no": "9. a.",
+          "dimension": "680",
+          "unit": "Each Joint",
+          "rate": 306.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 87,
+          "section_item_no": "9. a.",
+          "dimension": "700",
+          "unit": "Each Joint",
+          "rate": 314.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 88,
+          "section_item_no": "9. a.",
+          "dimension": "750",
+          "unit": "Each Joint",
+          "rate": 342.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 89,
+          "section_item_no": "9. a.",
+          "dimension": "800",
+          "unit": "Each Joint",
+          "rate": 366.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 90,
+          "section_item_no": "9. a.",
+          "dimension": "900",
+          "unit": "Each Joint",
+          "rate": 426.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 91,
+          "section_item_no": "9. a.",
+          "dimension": "1000",
+          "unit": "Each Joint",
+          "rate": 483.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 92,
+          "section_item_no": "9. a.",
+          "dimension": "1100",
+          "unit": "Each Joint",
+          "rate": 545.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 93,
+          "section_item_no": "9. a.",
+          "dimension": "1200",
+          "unit": "Each Joint",
+          "rate": 600.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 11,
+      "item_no": "9. b.",
+      "item_key": "9b",
+      "category": "Pipe Jointing",
+      "title": "Jointing the C.I. Pipes, D.I. Pipes & fittings with Rubber Gasket, excluding the cost of the gasket but including all sundries filling with water with a water lead upto 500 m and testing to required pressure etc., complete as per BIS No.3114/85.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 94,
+          "section_item_no": "9. b.",
+          "dimension": "80",
+          "unit": "Each Joint",
+          "rate": 37.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 95,
+          "section_item_no": "9. b.",
+          "dimension": "100",
+          "unit": "Each Joint",
+          "rate": 40.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 96,
+          "section_item_no": "9. b.",
+          "dimension": "125",
+          "unit": "Each Joint",
+          "rate": 58.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 97,
+          "section_item_no": "9. b.",
+          "dimension": "150",
+          "unit": "Each Joint",
+          "rate": 60.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 98,
+          "section_item_no": "9. b.",
+          "dimension": "180",
+          "unit": "Each Joint",
+          "rate": 70.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 99,
+          "section_item_no": "9. b.",
+          "dimension": "200",
+          "unit": "Each Joint",
+          "rate": 80.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 100,
+          "section_item_no": "9. b.",
+          "dimension": "225",
+          "unit": "Each Joint",
+          "rate": 91.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 101,
+          "section_item_no": "9. b.",
+          "dimension": "250",
+          "unit": "Each Joint",
+          "rate": 99,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 102,
+          "section_item_no": "9. b.",
+          "dimension": "300",
+          "unit": "Each Joint",
+          "rate": 118,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 103,
+          "section_item_no": "9. b.",
+          "dimension": "350",
+          "unit": "Each Joint",
+          "rate": 127.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 104,
+          "section_item_no": "9. b.",
+          "dimension": "380",
+          "unit": "Each Joint",
+          "rate": 146,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 105,
+          "section_item_no": "9. b.",
+          "dimension": "400",
+          "unit": "Each Joint",
+          "rate": 167.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 106,
+          "section_item_no": "9. b.",
+          "dimension": "450",
+          "unit": "Each Joint",
+          "rate": 186.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 107,
+          "section_item_no": "9. b.",
+          "dimension": "500",
+          "unit": "Each Joint",
+          "rate": 197.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 108,
+          "section_item_no": "9. b.",
+          "dimension": "530",
+          "unit": "Each Joint",
+          "rate": 214.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 109,
+          "section_item_no": "9. b.",
+          "dimension": "560",
+          "unit": "Each Joint",
+          "rate": 231.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 110,
+          "section_item_no": "9. b.",
+          "dimension": "600",
+          "unit": "Each Joint",
+          "rate": 268.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 111,
+          "section_item_no": "9. b.",
+          "dimension": "650",
+          "unit": "Each Joint",
+          "rate": 287,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 112,
+          "section_item_no": "9. b.",
+          "dimension": "680",
+          "unit": "Each Joint",
+          "rate": 291.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 113,
+          "section_item_no": "9. b.",
+          "dimension": "700",
+          "unit": "Each Joint",
+          "rate": 299.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 114,
+          "section_item_no": "9. b.",
+          "dimension": "750",
+          "unit": "Each Joint",
+          "rate": 326.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 115,
+          "section_item_no": "9. b.",
+          "dimension": "800",
+          "unit": "Each Joint",
+          "rate": 349.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 116,
+          "section_item_no": "9. b.",
+          "dimension": "900",
+          "unit": "Each Joint",
+          "rate": 405.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 117,
+          "section_item_no": "9. b.",
+          "dimension": "1000",
+          "unit": "Each Joint",
+          "rate": 460.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 118,
+          "section_item_no": "9. b.",
+          "dimension": "1100",
+          "unit": "Each Joint",
+          "rate": 509.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 119,
+          "section_item_no": "9. b.",
+          "dimension": "1200",
+          "unit": "Each Joint",
+          "rate": 557.4,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 12,
+      "item_no": 10,
+      "item_key": "10",
+      "category": "Pipe Jointing",
+      "title": "Jointing the C.I. Pipes, fittings and valves with flanged ends excluding cost of jointing materials such as bolts, nuts, rubber insertion, white lead and including filling with water with a water lead upto 500 m and testing to required pressure etc., comp as per BIS No.3114/85.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 120,
+          "section_item_no": 10,
+          "dimension": "80",
+          "unit": "Each Joint",
+          "rate": 47.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 121,
+          "section_item_no": 10,
+          "dimension": "100",
+          "unit": "Each Joint",
+          "rate": 50.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 122,
+          "section_item_no": 10,
+          "dimension": "125",
+          "unit": "Each Joint",
+          "rate": 73.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 123,
+          "section_item_no": 10,
+          "dimension": "150",
+          "unit": "Each Joint",
+          "rate": 76.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 124,
+          "section_item_no": 10,
+          "dimension": "180",
+          "unit": "Each Joint",
+          "rate": 89.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 125,
+          "section_item_no": 10,
+          "dimension": "200",
+          "unit": "Each Joint",
+          "rate": 100.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 126,
+          "section_item_no": 10,
+          "dimension": "225",
+          "unit": "Each Joint",
+          "rate": 114.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 127,
+          "section_item_no": 10,
+          "dimension": "250",
+          "unit": "Each Joint",
+          "rate": 124.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 128,
+          "section_item_no": 10,
+          "dimension": "300",
+          "unit": "Each Joint",
+          "rate": 149.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 129,
+          "section_item_no": 10,
+          "dimension": "350",
+          "unit": "Each Joint",
+          "rate": 163.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 130,
+          "section_item_no": 10,
+          "dimension": "380",
+          "unit": "Each Joint",
+          "rate": 186.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 131,
+          "section_item_no": 10,
+          "dimension": "400",
+          "unit": "Each Joint",
+          "rate": 210.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 132,
+          "section_item_no": 10,
+          "dimension": "450",
+          "unit": "Each Joint",
+          "rate": 235.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 133,
+          "section_item_no": 10,
+          "dimension": "500",
+          "unit": "Each Joint",
+          "rate": 247.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 134,
+          "section_item_no": 10,
+          "dimension": "530",
+          "unit": "Each Joint",
+          "rate": 273.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 135,
+          "section_item_no": 10,
+          "dimension": "560",
+          "unit": "Each Joint",
+          "rate": 293.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 136,
+          "section_item_no": 10,
+          "dimension": "600",
+          "unit": "Each Joint",
+          "rate": 345.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 137,
+          "section_item_no": 10,
+          "dimension": "650",
+          "unit": "Each Joint",
+          "rate": 371.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 138,
+          "section_item_no": 10,
+          "dimension": "680",
+          "unit": "Each Joint",
+          "rate": 375.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 139,
+          "section_item_no": 10,
+          "dimension": "700",
+          "unit": "Each Joint",
+          "rate": 386.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 140,
+          "section_item_no": 10,
+          "dimension": "750",
+          "unit": "Each Joint",
+          "rate": 421.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 141,
+          "section_item_no": 10,
+          "dimension": "800",
+          "unit": "Each Joint",
+          "rate": 451.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 142,
+          "section_item_no": 10,
+          "dimension": "900",
+          "unit": "Each Joint",
+          "rate": 524.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 143,
+          "section_item_no": 10,
+          "dimension": "1000",
+          "unit": "Each Joint",
+          "rate": 629.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 144,
+          "section_item_no": 10,
+          "dimension": "1100",
+          "unit": "Each Joint",
+          "rate": 670.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 145,
+          "section_item_no": 10,
+          "dimension": "1200",
+          "unit": "Each Joint",
+          "rate": 739,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 13,
+      "item_no": "11a",
+      "item_key": "11a",
+      "category": "RCC Pipe Laying",
+      "title": "Lowering the RCC plain ended pipes carefully into the trench laying them true to alignment and gradient, jointing RCC pipes with cement joints including curing, the cost of jointing materials i.e., Cement Mortar (1:1.5), hemp yarn etc., and testing including filling",
+      "unit": "Per Metre",
+      "rate": 7.3,
+      "sub_sections": [],
+      "items": [],
+      "notes": []
+    },
+    {
+      "id": 14,
+      "item_no": "11b",
+      "item_key": "11b",
+      "category": "RCC Pipe Laying",
+      "title": "Lowering the RCC S/S pipes carefully into the trenches, laying them true to the alignment and gradient, jointing with rubber rings and testing including filling with water with a water lead upto 500 metres excluding cost of rubber rings as per BIS No.783/",
+      "unit": "Per Metre",
+      "rate": 4.8,
+      "sub_sections": [],
+      "items": [],
+      "notes": []
+    },
+    {
+      "id": 15,
+      "item_no": 12,
+      "item_key": "12",
+      "category": "GI / PVC / HDPE Pipe Laying",
+      "title": "Laying, jointing of G.I. / PVC/HDPE pipes and specials/fittings including excavation upto 0.5 m depth in all soils except rock requiring blasting and re-filling trenches after laying and jointing pipes.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [
+        {
+          "sub_id": "a",
+          "description": "G.I. PIPES :",
+          "items": [
+            {
+              "id": 146,
+              "section_item_no": 12,
+              "dimension": "50",
+              "unit": "Per Metre",
+              "rate": 12.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 147,
+              "section_item_no": 12,
+              "dimension": "40",
+              "unit": "Per Metre",
+              "rate": 12.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 148,
+              "section_item_no": 12,
+              "dimension": "32",
+              "unit": "Per Metre",
+              "rate": 11.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 149,
+              "section_item_no": 12,
+              "dimension": "25",
+              "unit": "Per Metre",
+              "rate": 11.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 150,
+              "section_item_no": 12,
+              "dimension": "20",
+              "unit": "Per Metre",
+              "rate": 10.2,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 151,
+              "section_item_no": 12,
+              "dimension": "15",
+              "unit": "Per Metre",
+              "rate": 10.2,
+              "rate_type": "numeric"
+            }
+          ]
+        },
+        {
+          "sub_id": "b",
+          "description": "PVC/HDPE pipes as per BIS No.7634 part-III/75 for PVC and BIS No.7634 part-II/75 for HDPE pipes.",
+          "items": [
+            {
+              "id": 152,
+              "section_item_no": 12,
+              "dimension": "50",
+              "unit": "Per Metre",
+              "rate": 11.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 153,
+              "section_item_no": 12,
+              "dimension": "40",
+              "unit": "Per Metre",
+              "rate": 11.3,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 154,
+              "section_item_no": 12,
+              "dimension": "32",
+              "unit": "Per Metre",
+              "rate": 10.4,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 155,
+              "section_item_no": 12,
+              "dimension": "25",
+              "unit": "Per Metre",
+              "rate": 10.4,
+              "rate_type": "numeric"
+            },
+            {
+              "id": 156,
+              "section_item_no": 12,
+              "dimension": "20",
+              "unit": "Per Metre",
+              "rate": 9.5,
+              "rate_type": "numeric"
+            }
+          ]
+        }
+      ],
+      "items": [],
+      "notes": []
+    },
+    {
+      "id": 16,
+      "item_no": 13,
+      "item_key": "13",
+      "category": "AC Pressure Pipe Laying",
+      "title": "Lowering & laying AC pressure pipes in ready made trenches true to alignment and gradient including all sundries but excluding conveyance from source of supply, as per BIS No.6530/72. Dia of Pipes in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 157,
+          "section_item_no": 13,
+          "dimension": "80",
+          "unit": "Per Metre",
+          "rate": 7.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 158,
+          "section_item_no": 13,
+          "dimension": "100",
+          "unit": "Per Metre",
+          "rate": 7.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 159,
+          "section_item_no": 13,
+          "dimension": "125",
+          "unit": "Per Metre",
+          "rate": 7.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 160,
+          "section_item_no": 13,
+          "dimension": "150",
+          "unit": "Per Metre",
+          "rate": 7.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 161,
+          "section_item_no": 13,
+          "dimension": "200",
+          "unit": "Per Metre",
+          "rate": 9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 162,
+          "section_item_no": 13,
+          "dimension": "250",
+          "unit": "Per Metre",
+          "rate": 10.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 163,
+          "section_item_no": 13,
+          "dimension": "300",
+          "unit": "Per Metre",
+          "rate": 12.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 164,
+          "section_item_no": 13,
+          "dimension": "350",
+          "unit": "Per Metre",
+          "rate": 22.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 165,
+          "section_item_no": 13,
+          "dimension": "400",
+          "unit": "Per Metre",
+          "rate": 25.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 166,
+          "section_item_no": 13,
+          "dimension": "450",
+          "unit": "Per Metre",
+          "rate": 27.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 167,
+          "section_item_no": 13,
+          "dimension": "500",
+          "unit": "Per Metre",
+          "rate": 33.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 168,
+          "section_item_no": 13,
+          "dimension": "600",
+          "unit": "Per Metre",
+          "rate": 35.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 17,
+      "item_no": 14,
+      "item_key": "14",
+      "category": "AC Pressure Pipe Jointing",
+      "title": "Jointing AC pressure pipes with AC couplings or CID joints complete with Rubber Rings including filling with water with a water lead upto 500 m and testing to required pressure, etc., complete but excluding cost of jointing materials and conveyance of pipes.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 169,
+          "section_item_no": 14,
+          "dimension": "80",
+          "unit": "Each Joint",
+          "rate": 15.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 170,
+          "section_item_no": 14,
+          "dimension": "100",
+          "unit": "Each Joint",
+          "rate": 21.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 171,
+          "section_item_no": 14,
+          "dimension": "125",
+          "unit": "Each Joint",
+          "rate": 21.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 172,
+          "section_item_no": 14,
+          "dimension": "150",
+          "unit": "Each Joint",
+          "rate": 25.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 173,
+          "section_item_no": 14,
+          "dimension": "200",
+          "unit": "Each Joint",
+          "rate": 25.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 174,
+          "section_item_no": 14,
+          "dimension": "250",
+          "unit": "Each Joint",
+          "rate": 33.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 175,
+          "section_item_no": 14,
+          "dimension": "300",
+          "unit": "Each Joint",
+          "rate": 33.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 176,
+          "section_item_no": 14,
+          "dimension": "350",
+          "unit": "Each Joint",
+          "rate": 37.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 177,
+          "section_item_no": 14,
+          "dimension": "400",
+          "unit": "Each Joint",
+          "rate": 37.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 178,
+          "section_item_no": 14,
+          "dimension": "450",
+          "unit": "Each Joint",
+          "rate": 43.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 179,
+          "section_item_no": 14,
+          "dimension": "500",
+          "unit": "Each Joint",
+          "rate": 43.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 180,
+          "section_item_no": 14,
+          "dimension": "600",
+          "unit": "Each Joint",
+          "rate": 50.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 18,
+      "item_no": 15,
+      "item_key": "15",
+      "category": "Stoneware Pipe Laying",
+      "title": "Lowering and laying in ready made trenches true to alignment and gradient, jointing and testing of stoneware pipes excluding cost of jointing materials such as cement mortar and hemp yarn as per BIS No. 4127/83.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 181,
+          "section_item_no": 15,
+          "dimension": "100",
+          "unit": "Per Metre",
+          "rate": 18.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 182,
+          "section_item_no": 15,
+          "dimension": "150",
+          "unit": "Per Metre",
+          "rate": 23.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 183,
+          "section_item_no": 15,
+          "dimension": "200",
+          "unit": "Per Metre",
+          "rate": 26.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 184,
+          "section_item_no": 15,
+          "dimension": "225",
+          "unit": "Per Metre",
+          "rate": 27.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 185,
+          "section_item_no": 15,
+          "dimension": "250",
+          "unit": "Per Metre",
+          "rate": 31.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 186,
+          "section_item_no": 15,
+          "dimension": "300",
+          "unit": "Per Metre",
+          "rate": 36.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 187,
+          "section_item_no": 15,
+          "dimension": "400",
+          "unit": "Per Metre",
+          "rate": 40.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 188,
+          "section_item_no": 15,
+          "dimension": "450",
+          "unit": "Per Metre",
+          "rate": 54.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 19,
+      "item_no": 16,
+      "item_key": "16",
+      "category": "PVC Pipe Laying & Testing",
+      "title": "Lowering, laying, jointing & testing to Hydraulic Field test pressure including cost of water with minimum water lead of 500 M (Labour charges only) for PVC pipes excluding the cost of jointing materials.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 189,
+          "section_item_no": 16,
+          "dimension": "63",
+          "unit": "Per Metre",
+          "rate": 6.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 190,
+          "section_item_no": 16,
+          "dimension": "75",
+          "unit": "Per Metre",
+          "rate": 7.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 191,
+          "section_item_no": 16,
+          "dimension": "90",
+          "unit": "Per Metre",
+          "rate": 7.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 192,
+          "section_item_no": 16,
+          "dimension": "110",
+          "unit": "Per Metre",
+          "rate": 7.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 193,
+          "section_item_no": 16,
+          "dimension": "125",
+          "unit": "Per Metre",
+          "rate": 8.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 194,
+          "section_item_no": 16,
+          "dimension": "140",
+          "unit": "Per Metre",
+          "rate": 8.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 195,
+          "section_item_no": 16,
+          "dimension": "160",
+          "unit": "Per Metre",
+          "rate": 8.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 196,
+          "section_item_no": 16,
+          "dimension": "180",
+          "unit": "Per Metre",
+          "rate": 8.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 197,
+          "section_item_no": 16,
+          "dimension": "200",
+          "unit": "Per Metre",
+          "rate": 9.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 198,
+          "section_item_no": 16,
+          "dimension": "225",
+          "unit": "Per Metre",
+          "rate": 10,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 199,
+          "section_item_no": 16,
+          "dimension": "250",
+          "unit": "Per Metre",
+          "rate": 10.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 200,
+          "section_item_no": 16,
+          "dimension": "280",
+          "unit": "Per Metre",
+          "rate": 10.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 201,
+          "section_item_no": 16,
+          "dimension": "315",
+          "unit": "Per Metre",
+          "rate": 11.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 20,
+      "item_no": 17,
+      "item_key": "17",
+      "category": "Valve Labour",
+      "title": "Labour charges for lowering and keeping in position of C.I. Sluice valves, reflux valves and scour valves. Dia of Valve in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 202,
+          "section_item_no": 17,
+          "dimension": "80",
+          "unit": "Each",
+          "rate": 19.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 203,
+          "section_item_no": 17,
+          "dimension": "100",
+          "unit": "Each",
+          "rate": 25.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 204,
+          "section_item_no": 17,
+          "dimension": "125",
+          "unit": "Each",
+          "rate": 33.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 205,
+          "section_item_no": 17,
+          "dimension": "150",
+          "unit": "Each",
+          "rate": 39.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 206,
+          "section_item_no": 17,
+          "dimension": "200",
+          "unit": "Each",
+          "rate": 72.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 207,
+          "section_item_no": 17,
+          "dimension": "250",
+          "unit": "Each",
+          "rate": 98.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 208,
+          "section_item_no": 17,
+          "dimension": "300",
+          "unit": "Each",
+          "rate": 148.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 209,
+          "section_item_no": 17,
+          "dimension": "350",
+          "unit": "Each",
+          "rate": 255.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 210,
+          "section_item_no": 17,
+          "dimension": "400",
+          "unit": "Each",
+          "rate": 313.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 211,
+          "section_item_no": 17,
+          "dimension": "450",
+          "unit": "Each",
+          "rate": 411,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 21,
+      "item_no": "18 a.",
+      "item_key": "18a",
+      "category": "Air Valve Labour",
+      "title": "Labour charges for fixing Air Valves including boring the mains, threading the bore and fixing nipple etc., complete. Dia of Air valve in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 212,
+          "section_item_no": "18 a.",
+          "dimension": "25",
+          "unit": "Each",
+          "rate": 52.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 213,
+          "section_item_no": "18 a.",
+          "dimension": "40",
+          "unit": "Each",
+          "rate": 60.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 214,
+          "section_item_no": "18 a.",
+          "dimension": "50",
+          "unit": "Each",
+          "rate": 63.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 215,
+          "section_item_no": "18 a.",
+          "dimension": "65",
+          "unit": "Each",
+          "rate": 68,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 216,
+          "section_item_no": "18 a.",
+          "dimension": "80",
+          "unit": "Each",
+          "rate": 74.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 217,
+          "section_item_no": "18 a.",
+          "dimension": "100",
+          "unit": "Each",
+          "rate": 87.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 218,
+          "section_item_no": "18 a.",
+          "dimension": "125",
+          "unit": "Each",
+          "rate": 135.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 219,
+          "section_item_no": "18 a.",
+          "dimension": "150",
+          "unit": "Each",
+          "rate": 148.6,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 22,
+      "item_no": "18 b.",
+      "item_key": "18b",
+      "category": "Air Valve Labour",
+      "title": "Labour charges for fixing Kinetic Air Valves with isolating Sluice valves, Double Air valves/ Air Cushion valve excluding cost of jointing materials such as bolts, nuts and rubber insertions etc., complete. Dia of Air Valve in mm .",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 220,
+          "section_item_no": "18 b.",
+          "dimension": "25",
+          "unit": "Each",
+          "rate": 52.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 221,
+          "section_item_no": "18 b.",
+          "dimension": "40",
+          "unit": "Each",
+          "rate": 60.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 222,
+          "section_item_no": "18 b.",
+          "dimension": "50",
+          "unit": "Each",
+          "rate": 63.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 223,
+          "section_item_no": "18 b.",
+          "dimension": "65",
+          "unit": "Each",
+          "rate": 67.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 224,
+          "section_item_no": "18 b.",
+          "dimension": "80",
+          "unit": "Each",
+          "rate": 74.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 225,
+          "section_item_no": "18 b.",
+          "dimension": "100",
+          "unit": "Each",
+          "rate": 87.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 226,
+          "section_item_no": "18 b.",
+          "dimension": "125",
+          "unit": "Each",
+          "rate": 135.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 227,
+          "section_item_no": "18 b.",
+          "dimension": "150",
+          "unit": "Each",
+          "rate": 147.9,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 23,
+      "item_no": 19,
+      "item_key": "19",
+      "category": "Fire Hydrant Labour",
+      "title": "Labour charges for fixing fire hydrants excluding cost of jointing materials.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 228,
+          "section_item_no": 19,
+          "dimension": "65",
+          "unit": "Each",
+          "rate": 59.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 229,
+          "section_item_no": 19,
+          "dimension": "80",
+          "unit": "Each",
+          "rate": 74.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 24,
+      "item_no": 20,
+      "item_key": "20",
+      "category": "Pipe Uprooting",
+      "title": "Uprooting C.I./ DI Pipes by melting the lead, loosening the joints, scraping the pipes, hoisting and keeping within a lead of 10 m but excluding earth work excavation and refilling. Dia of Pipes in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 230,
+          "section_item_no": 20,
+          "dimension": "80",
+          "unit": "Per Metre",
+          "rate": "Observed data only",
+          "rate_type": "formula"
+        },
+        {
+          "id": 231,
+          "section_item_no": 20,
+          "dimension": "Uprooting of RCC pipes including breaking the collars, loosening the joint, scraping the pipes, hoisting and keeping within a lead of 10 m but excluding earthwork excavation and refilling.",
+          "unit": "Per Metre",
+          "rate": "observed data only",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 25,
+      "item_no": 22,
+      "item_key": "22",
+      "category": "GI/PVC/HDPE Pipe Removal",
+      "title": "Removing GI/PVC/HDPE pipes and specials/ fittings and clearing.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 232,
+          "section_item_no": 22,
+          "dimension": "50",
+          "unit": null,
+          "rate": 50,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 26,
+      "item_no": 23,
+      "item_key": "23",
+      "category": "Pipe Cutting",
+      "title": "Cutting C.I./ DI Pipes without water in mains.Dia of pipes in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 233,
+          "section_item_no": 23,
+          "dimension": "80",
+          "unit": "Each cut",
+          "rate": 28.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 234,
+          "section_item_no": 23,
+          "dimension": "100",
+          "unit": "Each cut",
+          "rate": 28.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 235,
+          "section_item_no": 23,
+          "dimension": "125",
+          "unit": "Each cut",
+          "rate": 28.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 236,
+          "section_item_no": 23,
+          "dimension": "150",
+          "unit": "Each cut",
+          "rate": 28.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 237,
+          "section_item_no": 23,
+          "dimension": "180",
+          "unit": "Each cut",
+          "rate": 32.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 238,
+          "section_item_no": 23,
+          "dimension": "200",
+          "unit": "Each cut",
+          "rate": 32.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 239,
+          "section_item_no": 23,
+          "dimension": "225",
+          "unit": "Each cut",
+          "rate": 32.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 240,
+          "section_item_no": 23,
+          "dimension": "250",
+          "unit": "Each cut",
+          "rate": 47.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 241,
+          "section_item_no": 23,
+          "dimension": "300",
+          "unit": "Each cut",
+          "rate": 47.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 242,
+          "section_item_no": 23,
+          "dimension": "350",
+          "unit": "Each cut",
+          "rate": 65.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 243,
+          "section_item_no": 23,
+          "dimension": "380",
+          "unit": "Each cut",
+          "rate": 72.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 244,
+          "section_item_no": 23,
+          "dimension": "400",
+          "unit": "Each cut",
+          "rate": 75.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 245,
+          "section_item_no": 23,
+          "dimension": "450",
+          "unit": "Each cut",
+          "rate": 93.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 246,
+          "section_item_no": 23,
+          "dimension": "500",
+          "unit": "Each cut",
+          "rate": 112.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 247,
+          "section_item_no": 23,
+          "dimension": "530",
+          "unit": "Each cut",
+          "rate": 122.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 248,
+          "section_item_no": 23,
+          "dimension": "560",
+          "unit": "Each cut",
+          "rate": 132.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 249,
+          "section_item_no": 23,
+          "dimension": "600",
+          "unit": "Each cut",
+          "rate": 150,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 250,
+          "section_item_no": 23,
+          "dimension": "680",
+          "unit": "Each cut",
+          "rate": 169.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 27,
+      "item_no": 24,
+      "item_key": "24",
+      "category": "Pipe Cutting",
+      "title": "Cutting A.C. Pipes without water in mains.Dia of pipes in mm.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 251,
+          "section_item_no": 24,
+          "dimension": "80",
+          "unit": "Each cut",
+          "rate": 12.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 252,
+          "section_item_no": 24,
+          "dimension": "100",
+          "unit": "Each cut",
+          "rate": 12.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 253,
+          "section_item_no": 24,
+          "dimension": "125",
+          "unit": "Each cut",
+          "rate": 12.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 254,
+          "section_item_no": 24,
+          "dimension": "150",
+          "unit": "Each cut",
+          "rate": 12.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 255,
+          "section_item_no": 24,
+          "dimension": "200",
+          "unit": "Each cut",
+          "rate": 12.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 256,
+          "section_item_no": 24,
+          "dimension": "250",
+          "unit": "Each cut",
+          "rate": 20.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 257,
+          "section_item_no": 24,
+          "dimension": "300",
+          "unit": "Each cut",
+          "rate": 20.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 258,
+          "section_item_no": 24,
+          "dimension": "350",
+          "unit": "Each cut",
+          "rate": 26.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 259,
+          "section_item_no": 24,
+          "dimension": "400",
+          "unit": "Each cut",
+          "rate": 29,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 260,
+          "section_item_no": 24,
+          "dimension": "450",
+          "unit": "Each cut",
+          "rate": 35.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 261,
+          "section_item_no": 24,
+          "dimension": "500",
+          "unit": "Each cut",
+          "rate": 39.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 262,
+          "section_item_no": 24,
+          "dimension": "600",
+          "unit": "Each cut",
+          "rate": 44.3,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 28,
+      "item_no": 25,
+      "item_key": "25",
+      "category": "Drilling & Tapping",
+      "title": "Drilling and tapping CI/ DI Main and fixing brass screw down ferrule and plug.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 263,
+          "section_item_no": 25,
+          "dimension": "10 mm to 20",
+          "unit": "Each Tapping",
+          "rate": 57.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 264,
+          "section_item_no": 25,
+          "dimension": "25 mm to 40",
+          "unit": "Each Tapping",
+          "rate": 68.5,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 29,
+      "item_no": 26,
+      "item_key": "26",
+      "category": "Road Cutting",
+      "title": "Cutting road surface including stacking of excavated materials for pipe line trench work.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 265,
+          "section_item_no": 26,
+          "dimension": "a) Cutting open B.T. road surface (as well as asphalt concrete upto 75 mm thick) including water bound macadam",
+          "unit": "10 Sqm",
+          "rate": 186.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 266,
+          "section_item_no": 26,
+          "dimension": "b) Cutting open C.C. road surface",
+          "unit": "1 Cum",
+          "rate": 354.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 267,
+          "section_item_no": 26,
+          "dimension": "c) Cutting open water bound macadam road including soiling",
+          "unit": "1 Cum",
+          "rate": 60.8,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 30,
+      "item_no": 27,
+      "item_key": "27",
+      "category": "Dewatering",
+      "title": "Bailing out water.(For PH item)",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 268,
+          "section_item_no": 27,
+          "dimension": "a) Bailing out water from the pipe line trenches with oil engine driven pumpsets, including hire charges, fuel charges and wages for Driver and Helper.",
+          "unit": "HP/Hour",
+          "rate": 13,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 269,
+          "section_item_no": 27,
+          "dimension": "b) Bailing out water from the pipe line trenches with Electric Driven pumpset including hire charges, current charges and wages for Driver and Helper.",
+          "unit": "HP/Hour",
+          "rate": 10.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 31,
+      "item_no": 28,
+      "item_key": "28",
+      "category": "Shoring & Strutting",
+      "title": "Shoring and strutting of trenches for water and sewer main.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 270,
+          "section_item_no": 28,
+          "dimension": "a) Single Staging from (0 to 2.5 Mts.)",
+          "unit": "10 Sqm of Shoring area",
+          "rate": 543.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 271,
+          "section_item_no": 28,
+          "dimension": "b) Double staging from (2.5 m to 4.5 Mts.)",
+          "unit": "10 Sqm of Shoring area",
+          "rate": 735.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 272,
+          "section_item_no": 28,
+          "dimension": "Barricading, hoarding, lighting and watching etc., for water supply and sewerage works for trenches.",
+          "unit": "10 RM",
+          "rate": 29.4,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 32,
+      "item_no": 30,
+      "item_key": "30",
+      "category": "Underwater Excavation",
+      "title": "Excavation of trenches for infiltration galleries, syphon lines and connecting mains in all soils under water including all leads, lifts, shoring, strutting, bailing out water and removal of shoring and strutting materials, after completion of pipe line w",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 273,
+          "section_item_no": 30,
+          "dimension": "a) 0 to 1 m deep under water.",
+          "unit": "10 Cum",
+          "rate": 4381.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 274,
+          "section_item_no": 30,
+          "dimension": "b) 1 to 2 m deep under water.",
+          "unit": "10 Cum",
+          "rate": 6276,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 275,
+          "section_item_no": 30,
+          "dimension": "c) 2 to 5 m deep under water.",
+          "unit": "10 Cum",
+          "rate": 9058.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 276,
+          "section_item_no": 30,
+          "dimension": "d) Beyond 5 m deep under water for every additional 1 m depth over item 'c'",
+          "unit": "10 Cum",
+          "rate": 1714.2,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 33,
+      "item_no": 31,
+      "item_key": "31",
+      "category": "Infiltration Gallery",
+      "title": "Laying and jointing glazed stoneware pipes including loose jointing with cement fillets and all other incidental charges for infiltration gallery, inclusive of bailing out water by pumping to keep the trench reasonably dry to facilitate the work excluding cost of stoneware pipes",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 277,
+          "section_item_no": 31,
+          "dimension": "a) 200 mm to 400",
+          "unit": "Per Metre",
+          "rate": 218.1,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 34,
+      "item_no": 32,
+      "item_key": "32",
+      "category": "Infiltration Gallery",
+      "title": "Laying and jointing perforated RCC pipes inclusive of bailing out water and jointing with cement fillets and all other incidental charges for infiltration gallery inclusive of bailing out water by pumping to keep the trench reasonably dry to facilitate the work excluding.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 278,
+          "section_item_no": 32,
+          "dimension": "a) 200 mm to 600",
+          "unit": "Per Metre",
+          "rate": 225.1,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 35,
+      "item_no": 33,
+      "item_key": "33",
+      "category": "Centering & Scaffolding",
+      "title": "Centring and scaffolding charges for RCC members including all materials and labour charges for forming and dismantling a) for R C C Elevated Service Reservoir of staging up to 15 metre below L W L.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 279,
+          "section_item_no": 33,
+          "dimension": "1) Slabs for thickness (150 mm to 300 mm)",
+          "unit": null,
+          "rate": 826.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 280,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 1651.7,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 281,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 624.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 282,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 555.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 283,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 676.5,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 284,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 416.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 285,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 455.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 286,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 278.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 287,
+          "section_item_no": 33,
+          "dimension": null,
+          "unit": null,
+          "rate": 305.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 288,
+          "section_item_no": 33,
+          "dimension": "1) Slabs",
+          "unit": "1 Sqm",
+          "rate": "As per Common SSR",
+          "rate_type": "formula"
+        },
+        {
+          "id": 289,
+          "section_item_no": 33,
+          "dimension": "4) RCC vertical walls of plane surface upto 3 m height",
+          "unit": "1 Sqm",
+          "rate": 302.3,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 290,
+          "section_item_no": 33,
+          "dimension": "5) RCC vertical walls of circular faces upto 3 m",
+          "unit": "1 Sqm",
+          "rate": 385.7,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 36,
+      "item_no": 34,
+      "item_key": "34",
+      "category": "Lift & Delift",
+      "title": "Lift or delift of materials :",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 291,
+          "section_item_no": 34,
+          "dimension": "a) Lifting of cement concrete for RCC elevated",
+          "unit": "1 Cum",
+          "rate": 53.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 292,
+          "section_item_no": 34,
+          "dimension": "b) Delifting the materials such as stones, concrete",
+          "unit": "1 Cum",
+          "rate": 16.4,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 293,
+          "section_item_no": 34,
+          "dimension": "Labour charges for fixing ventilating shafts complete with all accessories.",
+          "unit": "Each",
+          "rate": 222.2,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 294,
+          "section_item_no": 34,
+          "dimension": "Labour charges for fixing water closets including fixing of foot rests (for all sizes).",
+          "unit": "Each",
+          "rate": "Relevant Common SSR item",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 37,
+      "item_no": "41 a",
+      "item_key": "41a",
+      "category": "Miscellaneous",
+      "title": "Extra allowance for isolated scattered works viz., valve pits, public fountains, meter pits and manholes etc., complete.",
+      "unit": "Each",
+      "rate": 25,
+      "sub_sections": [],
+      "items": [],
+      "notes": []
+    },
+    {
+      "id": 38,
+      "item_no": "41 b",
+      "item_key": "41b",
+      "category": "Miscellaneous",
+      "title": "Repairs to the existing mains, interconnections, replacement of valves/specials etc., including the cutting ,jointing, bailing out of water, drying, earth work execavation etc., complete.",
+      "unit": null,
+      "rate": 100,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 295,
+          "section_item_no": "41 b",
+          "dimension": "Removal of wet silt and sludge from sullage drains with aid of baskets and vessels.",
+          "unit": "10 Cum",
+          "rate": 554.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 296,
+          "section_item_no": "41 b",
+          "dimension": "Conveyance of C.I./ DI Pipes, C.I. Special excluding loading, unloading and stacking.",
+          "unit": null,
+          "rate": "As per separate sheet enclosed",
+          "rate_type": "formula"
+        },
+        {
+          "id": 297,
+          "section_item_no": "41 b",
+          "dimension": "Conveyance of RCC pipes including loading, unloading and stacking.",
+          "unit": null,
+          "rate": "Deleted",
+          "rate_type": "formula"
+        },
+        {
+          "id": 298,
+          "section_item_no": "41 b",
+          "dimension": "Conveyance of Stoneware pipes inlcuding loading unloading and stacking.",
+          "unit": null,
+          "rate": "As per local competitive quotations",
+          "rate_type": "formula"
+        },
+        {
+          "id": 299,
+          "section_item_no": "41 b",
+          "dimension": "Conveyance of A.C. pressure pipes and accessories including loading, unloading and stacking.",
+          "unit": null,
+          "rate": "As per local competitive quotations",
+          "rate_type": "formula"
+        },
+        {
+          "id": 300,
+          "section_item_no": "41 b",
+          "dimension": "Conveyance of PVC pipes and accessories including loading, unloading and stacking.",
+          "unit": null,
+          "rate": "Deleted",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 39,
+      "item_no": 48,
+      "item_key": "48",
+      "category": "Well Sinking",
+      "title": "Well sinking in sandy and other loose soils under water either by manual labour, divers, or dredgers, weighting the top of staining to assist sinking etc., including dewatering and other incidental charges such as hire charges for mechanical equipment etc,complete up to 4 m internal dia.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 301,
+          "section_item_no": 48,
+          "dimension": "Upto 2 m below GL/m",
+          "unit": "Per metre",
+          "rate": 9220.6,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 302,
+          "section_item_no": 48,
+          "dimension": "From 2 to 4 m below GL/m",
+          "unit": "Per metre",
+          "rate": 10098.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 303,
+          "section_item_no": 48,
+          "dimension": "From 4 to 6 m below GL/m",
+          "unit": "Per metre",
+          "rate": 11414.8,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 304,
+          "section_item_no": 48,
+          "dimension": "From 6 to 8 m below GL/m",
+          "unit": "Per metre",
+          "rate": 12871.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 305,
+          "section_item_no": 48,
+          "dimension": "From 8 to 10 m below GL/m",
+          "unit": "Per metre",
+          "rate": 14227.9,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 306,
+          "section_item_no": 48,
+          "dimension": "Sinking in Hard strata other than rock but in soils like limestone, gravel, clay under water including, pumping dewatering, hire charges for mechanical equipment etc., complete.",
+          "unit": null,
+          "rate": "Deleted",
+          "rate_type": "formula"
+        },
+        {
+          "id": 307,
+          "section_item_no": 48,
+          "dimension": "Open well excavation in various soils.",
+          "unit": null,
+          "rate": "As per Common SSR",
+          "rate_type": "formula"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 40,
+      "item_no": 51,
+      "item_key": "51",
+      "category": "OHSR / ELSR Rates (Kilo Litres)",
+      "title": "Rates for OHSRs/ELSRs including fixtures with a staging of 15 m.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 308,
+          "section_item_no": 51,
+          "dimension": "Capacity in 500 Kilo litres",
+          "unit": "Per litre",
+          "rate": 4.75,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 309,
+          "section_item_no": 51,
+          "dimension": "Capacity in 1000 Kilo litres",
+          "unit": "Per litre",
+          "rate": 4.54,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 310,
+          "section_item_no": 51,
+          "dimension": "Capacity in 1500 Kilo litres",
+          "unit": "Per litre",
+          "rate": 4.28,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 311,
+          "section_item_no": 51,
+          "dimension": "Capacity in 2000 Kilo litres",
+          "unit": "Per litre",
+          "rate": 4.1,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 312,
+          "section_item_no": 51,
+          "dimension": "Capacity in 2500 Kilo litres",
+          "unit": "Per litre",
+          "rate": 3.89,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 41,
+      "item_no": 52,
+      "item_key": "52",
+      "category": "OHSR / ELSR Rates (Litres)",
+      "title": "Rates for OHSRs/ELSRs including fixtures with a staging of 15 m.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [
+        {
+          "sub_id": "auto_1",
+          "description": "h) Railing with 32 mm dia G.I. Pipes (A class) in two",
+          "items": []
+        }
+      ],
+      "items": [
+        {
+          "id": 313,
+          "section_item_no": 52,
+          "dimension": "40,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 11.23,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 314,
+          "section_item_no": 52,
+          "dimension": "40,001 to 60,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 8.53,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 315,
+          "section_item_no": 52,
+          "dimension": "60,001 to 1,00,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 7.88,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 316,
+          "section_item_no": 52,
+          "dimension": "1,00,001 to 2,00,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 6.91,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 317,
+          "section_item_no": 52,
+          "dimension": "2,00,001 to 3,00,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 6.48,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 318,
+          "section_item_no": 52,
+          "dimension": "3,00,001 to 4,00,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 5.72,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 319,
+          "section_item_no": 52,
+          "dimension": "4,00,001 to 4,50,000 Litres capacity",
+          "unit": "Per litre",
+          "rate": 4.97,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 42,
+      "item_no": 53,
+      "item_key": "53",
+      "category": "Filtration Plant Construction",
+      "title": "Construction of Rapid Gravity Filtration Plant including civil, mechanical and electrical trial running etc., complete.",
+      "unit": null,
+      "rate": null,
+      "sub_sections": [],
+      "items": [
+        {
+          "id": 320,
+          "section_item_no": 53,
+          "dimension": "1) 2.0 Mld",
+          "unit": "Per litre",
+          "rate": 1.25,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 321,
+          "section_item_no": 53,
+          "dimension": "2) 5.0 Mld",
+          "unit": "Per litre",
+          "rate": 1.15,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 322,
+          "section_item_no": 53,
+          "dimension": "3) 10.0 Mld",
+          "unit": "Per litre",
+          "rate": 1.04,
+          "rate_type": "numeric"
+        },
+        {
+          "id": 323,
+          "section_item_no": 53,
+          "dimension": "4) 20.0 Mld",
+          "unit": "Per litre",
+          "rate": 0.94,
+          "rate_type": "numeric"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

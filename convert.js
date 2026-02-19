@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-// 1️⃣ Read original file
+// 1️ Read original file
 const rawData = JSON.parse(
   fs.readFileSync("originalNested.json", "utf8")
 );
@@ -10,7 +10,7 @@ const result = [];
 
 const sections = rawData.sections;
 
-// 2️⃣ Skilled Workmen
+// 2️ Skilled Workmen
 for (const subCategory in sections.Skilled_Workmen) {
   sections.Skilled_Workmen[subCategory].forEach(item => {
     result.push({
@@ -24,7 +24,7 @@ for (const subCategory in sections.Skilled_Workmen) {
   });
 }
 
-// 3️⃣ Semi-Skilled
+// 3️ Semi-Skilled
 sections.Semi_Skilled_Workmen.forEach(item => {
   result.push({
     year,
@@ -36,7 +36,7 @@ sections.Semi_Skilled_Workmen.forEach(item => {
   });
 });
 
-// 4️⃣ Unskilled
+// 4️ Unskilled
 sections.Unskilled_Workmen.forEach(item => {
   result.push({
     year,
@@ -48,7 +48,7 @@ sections.Unskilled_Workmen.forEach(item => {
   });
 });
 
-// 5️⃣ Conveyance
+// 5️ Conveyance
 sections.Other_Conveyance_Items.forEach(item => {
   result.push({
     year,
@@ -60,10 +60,10 @@ sections.Other_Conveyance_Items.forEach(item => {
   });
 });
 
-// 6️⃣ Save flattened JSON
+// 6️ Save flattened JSON
 fs.writeFileSync(
   "flattened.json",
   JSON.stringify(result, null, 2)
 );
 
-console.log("✅ Conversion completed. flattened.json created.");
+console.log(" Conversion completed. flattened.json created.");

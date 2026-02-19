@@ -1,0 +1,563 @@
+{
+  "department": "Public Health",
+  "source": "input.xlsx",
+  "generatedAt": "2026-02-19T16:25:34.078Z",
+  "totalItems": 5,
+  "items": [
+    {
+      "itemNo": "8a",
+      "title": "Lowering the C.I. Pipes, D.I. Pipes and fittings with S/S ends carefully into the trenches and laying them true to alignment and gradient including all sundries, but excluding conveyance from source of supply as per BIS No.3114/85.",
+      "unit": "Per Metre",
+      "rates": [
+        {
+          "diameter": 80,
+          "rate": 12.5
+        },
+        {
+          "diameter": 100,
+          "rate": 12.5
+        },
+        {
+          "diameter": 125,
+          "rate": 12.5
+        },
+        {
+          "diameter": 150,
+          "rate": 12.5
+        },
+        {
+          "diameter": 180,
+          "rate": 14.4
+        },
+        {
+          "diameter": 200,
+          "rate": 16.1
+        },
+        {
+          "diameter": 225,
+          "rate": 17.1
+        },
+        {
+          "diameter": 250,
+          "rate": 18.2
+        },
+        {
+          "diameter": 300,
+          "rate": 23.4
+        },
+        {
+          "diameter": 350,
+          "rate": 42.2
+        },
+        {
+          "diameter": 380,
+          "rate": 42.7
+        },
+        {
+          "diameter": 400,
+          "rate": 44.6
+        },
+        {
+          "diameter": 450,
+          "rate": 52
+        },
+        {
+          "diameter": 500,
+          "rate": 56.1
+        },
+        {
+          "diameter": 530,
+          "rate": 63.8
+        },
+        {
+          "diameter": 560,
+          "rate": 69.9
+        },
+        {
+          "diameter": 600,
+          "rate": 74.6
+        },
+        {
+          "diameter": 650,
+          "rate": 77.2
+        },
+        {
+          "diameter": 680,
+          "rate": 82
+        },
+        {
+          "diameter": 700,
+          "rate": 90.8
+        },
+        {
+          "diameter": 750,
+          "rate": 104.8
+        },
+        {
+          "diameter": 800,
+          "rate": 121.5
+        },
+        {
+          "diameter": 900,
+          "rate": 145.7
+        },
+        {
+          "diameter": 1000,
+          "rate": 176
+        },
+        {
+          "diameter": 1100,
+          "rate": 209.1
+        },
+        {
+          "diameter": 1200,
+          "rate": 245.3
+        }
+      ]
+    },
+    {
+      "itemNo": "8b",
+      "title": "Lowering the C.I. Pipes, D.I. Pipes and fittings with flanged ends carefully into the trenches and laying them true to alignment and gradient including all sundries, but excluding conveyance from source of supply as per BIS No.3114/85.",
+      "unit": "Per Metre",
+      "rates": [
+        {
+          "diameter": 80,
+          "rate": 15.2
+        },
+        {
+          "diameter": 100,
+          "rate": 15.2
+        },
+        {
+          "diameter": 125,
+          "rate": 15.2
+        },
+        {
+          "diameter": 150,
+          "rate": 15.9
+        },
+        {
+          "diameter": 180,
+          "rate": 16.3
+        },
+        {
+          "diameter": 200,
+          "rate": 17.8
+        },
+        {
+          "diameter": 225,
+          "rate": 19
+        },
+        {
+          "diameter": 250,
+          "rate": 20.3
+        },
+        {
+          "diameter": 300,
+          "rate": 25.9
+        },
+        {
+          "diameter": 350,
+          "rate": 46.4
+        },
+        {
+          "diameter": 380,
+          "rate": 47.8
+        },
+        {
+          "diameter": 400,
+          "rate": 51.3
+        },
+        {
+          "diameter": 450,
+          "rate": 57
+        },
+        {
+          "diameter": 500,
+          "rate": 59.6
+        },
+        {
+          "diameter": 530,
+          "rate": 66.6
+        },
+        {
+          "diameter": 560,
+          "rate": 71.6
+        },
+        {
+          "diameter": 600,
+          "rate": 78
+        },
+        {
+          "diameter": 650,
+          "rate": 80
+        },
+        {
+          "diameter": 680,
+          "rate": 86.5
+        },
+        {
+          "diameter": 700,
+          "rate": 99.7
+        },
+        {
+          "diameter": 750,
+          "rate": 112.7
+        },
+        {
+          "diameter": 800,
+          "rate": 138.2
+        },
+        {
+          "diameter": 900,
+          "rate": 167
+        },
+        {
+          "diameter": 1000,
+          "rate": 197.8
+        },
+        {
+          "diameter": 1100,
+          "rate": 232.1
+        },
+        {
+          "diameter": 1200,
+          "rate": 270.5
+        }
+      ]
+    },
+    {
+      "itemNo": "9a",
+      "title": "Jointing the C.I. / DI Pipes & fittings with S/S ends excluding cost of jointing materials such as lead or lead wool and hemp yarn but including sundries such as cost of fuel for melting lead, filling with water, with a water lead upto 500 m and testing to required pressure etc, complete as BIS No.3114/85",
+      "unit": "Each Joint",
+      "rates": [
+        {
+          "diameter": 80,
+          "rate": 40.5
+        },
+        {
+          "diameter": 100,
+          "rate": 43.4
+        },
+        {
+          "diameter": 125,
+          "rate": 62.5
+        },
+        {
+          "diameter": 150,
+          "rate": 65.2
+        },
+        {
+          "diameter": 180,
+          "rate": 75.7
+        },
+        {
+          "diameter": 200,
+          "rate": 85.3
+        },
+        {
+          "diameter": 225,
+          "rate": 96.3
+        },
+        {
+          "diameter": 250,
+          "rate": 106.3
+        },
+        {
+          "diameter": 300,
+          "rate": 124.8
+        },
+        {
+          "diameter": 350,
+          "rate": 136.6
+        },
+        {
+          "diameter": 380,
+          "rate": 156.6
+        },
+        {
+          "diameter": 400,
+          "rate": 177.7
+        },
+        {
+          "diameter": 450,
+          "rate": 197.5
+        },
+        {
+          "diameter": 500,
+          "rate": 209.6
+        },
+        {
+          "diameter": 530,
+          "rate": 227.6
+        },
+        {
+          "diameter": 560,
+          "rate": 245.9
+        },
+        {
+          "diameter": 600,
+          "rate": 282.2
+        },
+        {
+          "diameter": 650,
+          "rate": 301.5
+        },
+        {
+          "diameter": 680,
+          "rate": 306.5
+        },
+        {
+          "diameter": 700,
+          "rate": 314.3
+        },
+        {
+          "diameter": 750,
+          "rate": 342.7
+        },
+        {
+          "diameter": 800,
+          "rate": 366.9
+        },
+        {
+          "diameter": 900,
+          "rate": 426.4
+        },
+        {
+          "diameter": 1000,
+          "rate": 483.5
+        },
+        {
+          "diameter": 1100,
+          "rate": 545.3
+        },
+        {
+          "diameter": 1200,
+          "rate": 600.2
+        }
+      ]
+    },
+    {
+      "itemNo": "9b",
+      "title": "Jointing the C.I. Pipes, D.I. Pipes & fittings with Rubber Gasket, excluding the cost of the gasket but including all sundries filling with water with a water lead upto 500 m and testing to required pressure etc., complete as per BIS No.3114/85.",
+      "unit": "Each Joint",
+      "rates": [
+        {
+          "diameter": 80,
+          "rate": 37.5
+        },
+        {
+          "diameter": 100,
+          "rate": 40.2
+        },
+        {
+          "diameter": 125,
+          "rate": 58.2
+        },
+        {
+          "diameter": 150,
+          "rate": 60.7
+        },
+        {
+          "diameter": 180,
+          "rate": 70.1
+        },
+        {
+          "diameter": 200,
+          "rate": 80.6
+        },
+        {
+          "diameter": 225,
+          "rate": 91.2
+        },
+        {
+          "diameter": 250,
+          "rate": 99
+        },
+        {
+          "diameter": 300,
+          "rate": 118
+        },
+        {
+          "diameter": 350,
+          "rate": 127.3
+        },
+        {
+          "diameter": 380,
+          "rate": 146
+        },
+        {
+          "diameter": 400,
+          "rate": 167.4
+        },
+        {
+          "diameter": 450,
+          "rate": 186.1
+        },
+        {
+          "diameter": 500,
+          "rate": 197.4
+        },
+        {
+          "diameter": 530,
+          "rate": 214.3
+        },
+        {
+          "diameter": 560,
+          "rate": 231.6
+        },
+        {
+          "diameter": 600,
+          "rate": 268.5
+        },
+        {
+          "diameter": 650,
+          "rate": 287
+        },
+        {
+          "diameter": 680,
+          "rate": 291.7
+        },
+        {
+          "diameter": 700,
+          "rate": 299.1
+        },
+        {
+          "diameter": 750,
+          "rate": 326.1
+        },
+        {
+          "diameter": 800,
+          "rate": 349.3
+        },
+        {
+          "diameter": 900,
+          "rate": 405.8
+        },
+        {
+          "diameter": 1000,
+          "rate": 460.3
+        },
+        {
+          "diameter": 1100,
+          "rate": 509.2
+        },
+        {
+          "diameter": 1200,
+          "rate": 557.4
+        }
+      ]
+    },
+    {
+      "itemNo": "10",
+      "title": "Jointing the C.I. Pipes, fittings and valves with flanged ends excluding cost of jointing materials such as bolts, nuts, rubber insertion, white lead and including filling with water with a water lead upto 500 m and testing to required pressure etc., comp as per BIS No.3114/85.",
+      "unit": "Each Joint",
+      "rates": [
+        {
+          "diameter": 80,
+          "rate": 47.7
+        },
+        {
+          "diameter": 100,
+          "rate": 50.9
+        },
+        {
+          "diameter": 125,
+          "rate": 73.4
+        },
+        {
+          "diameter": 150,
+          "rate": 76.5
+        },
+        {
+          "diameter": 180,
+          "rate": 89.2
+        },
+        {
+          "diameter": 200,
+          "rate": 100.9
+        },
+        {
+          "diameter": 225,
+          "rate": 114.9
+        },
+        {
+          "diameter": 250,
+          "rate": 124.7
+        },
+        {
+          "diameter": 300,
+          "rate": 149.3
+        },
+        {
+          "diameter": 350,
+          "rate": 163.4
+        },
+        {
+          "diameter": 380,
+          "rate": 186.9
+        },
+        {
+          "diameter": 400,
+          "rate": 210.3
+        },
+        {
+          "diameter": 450,
+          "rate": 235.8
+        },
+        {
+          "diameter": 500,
+          "rate": 247.8
+        },
+        {
+          "diameter": 530,
+          "rate": 273.2
+        },
+        {
+          "diameter": 560,
+          "rate": 293.1
+        },
+        {
+          "diameter": 600,
+          "rate": 345.7
+        },
+        {
+          "diameter": 650,
+          "rate": 371.5
+        },
+        {
+          "diameter": 680,
+          "rate": 375.9
+        },
+        {
+          "diameter": 700,
+          "rate": 386.4
+        },
+        {
+          "diameter": 750,
+          "rate": 421.4
+        },
+        {
+          "diameter": 800,
+          "rate": 451.8
+        },
+        {
+          "diameter": 900,
+          "rate": 524.3
+        },
+        {
+          "diameter": 1000,
+          "rate": 629.6
+        },
+        {
+          "diameter": 1100,
+          "rate": 670.4
+        },
+        {
+          "diameter": 1200,
+          "rate": 739
+        }
+      ]
+    }
+  ]
+}
